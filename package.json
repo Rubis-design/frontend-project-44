@@ -1,6 +1,5 @@
 {
   "name": "@hexlet/code",
-  "type":"module",
   "version": "1.0.0",
   "type": "module",
   "description": "[![Actions Status](https://github.com/Rubis-design/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Rubis-design/frontend-project-44/actions)",
