@@ -12,6 +12,6 @@ const generateRound = () => {
   };
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
-const brainEvenGame = runGame(description, generateRound);
+const brainEvenGame = () => runGame(description, generateRound);
 
 export {brainEvenGame};

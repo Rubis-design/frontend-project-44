@@ -32,6 +32,6 @@ const generateRound = () => {
 };
 
 const description = 'What is the result of the expression?';
-const brainCalcGame = runGame(description, generateRound);
+const brainCalcGame = () => runGame(description, generateRound);
 
 export {brainCalcGame};
