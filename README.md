@@ -10,4 +10,8 @@ https://asciinema.org/connect/c29854fd-e4bd-4084-b08c-d958fabcbda0
 
 brain-calc:
 
-<script src="https://asciinema.org/a/F0Bi4s3QK7gWjLXWL7ljGMoSO.js" id="asciicast-F0Bi4s3QK7gWjLXWL7ljGMoSO" async="true"></script>
+https://asciinema.org/a/F0Bi4s3QK7gWjLXWL7ljGMoSO
+
+brain-gcd:
+
+https://asciinema.org/a/xNlc3l3irRZFwtJfwiirg1esf
